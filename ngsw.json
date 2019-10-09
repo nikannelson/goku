@@ -9,7 +9,7 @@
       "urls": [
         "https://nikannelson.github.io/goku/favicon.ico",
         "https://nikannelson.github.io/goku/index.html",
-        "https://nikannelson.github.io/goku/main.86c2ce33d23912625bb7.js",
+        "https://nikannelson.github.io/goku/main.816c40ff91472e417146.js",
         "https://nikannelson.github.io/goku/polyfills.7037a817a5bb670ed2ca.js",
         "https://nikannelson.github.io/goku/runtime.ec2944dd8b20ec099bf3.js",
         "https://nikannelson.github.io/goku/styles.6d8b68a60b97bdae14ce.css"
@@ -31,8 +31,10 @@
         "https://nikannelson.github.io/goku/assets/icons/icon-512x512.png",
         "https://nikannelson.github.io/goku/assets/icons/icon-72x72.png",
         "https://nikannelson.github.io/goku/assets/icons/icon-96x96.png",
+        "https://nikannelson.github.io/goku/assets/kame.jpg",
         "https://nikannelson.github.io/goku/assets/migate.gif",
         "https://nikannelson.github.io/goku/assets/migate.jpg",
+        "https://nikannelson.github.io/goku/kame.0bd6d3c179d22fefa259.jpg",
         "https://nikannelson.github.io/goku/migate.c21e8de1b39661051238.gif"
       ],
       "patterns": []
@@ -50,11 +52,13 @@
     "https://nikannelson.github.io/goku/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://nikannelson.github.io/goku/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://nikannelson.github.io/goku/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://nikannelson.github.io/goku/assets/kame.jpg": "79625f256db611a283906bc94823622ae05da827",
     "https://nikannelson.github.io/goku/assets/migate.gif": "56fbbe119246c5d1bcde8dbbf8e730f146fa6017",
     "https://nikannelson.github.io/goku/assets/migate.jpg": "4d68598a2639d63d6d5485b4309390d1c4f0cea1",
     "https://nikannelson.github.io/goku/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://nikannelson.github.io/goku/index.html": "4b8efad11c1a3980514d53a26ea7494dcbe5dda5",
-    "https://nikannelson.github.io/goku/main.86c2ce33d23912625bb7.js": "6764d66a6c9b329e44dcd197cebaa8efe1609b46",
+    "https://nikannelson.github.io/goku/index.html": "4dc8c6d3705d3224a49f24ec60d735c6d8fd66b9",
+    "https://nikannelson.github.io/goku/kame.0bd6d3c179d22fefa259.jpg": "79625f256db611a283906bc94823622ae05da827",
+    "https://nikannelson.github.io/goku/main.816c40ff91472e417146.js": "79ae57882dd32b65562a94630340376c4dde0885",
     "https://nikannelson.github.io/goku/migate.c21e8de1b39661051238.gif": "56fbbe119246c5d1bcde8dbbf8e730f146fa6017",
     "https://nikannelson.github.io/goku/polyfills.7037a817a5bb670ed2ca.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "https://nikannelson.github.io/goku/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
