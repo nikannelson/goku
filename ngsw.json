@@ -9,7 +9,7 @@
       "urls": [
         "https://nikannelson.github.io/goku/favicon.ico",
         "https://nikannelson.github.io/goku/index.html",
-        "https://nikannelson.github.io/goku/main.4c64f672f5f733a1eb4a.js",
+        "https://nikannelson.github.io/goku/main.d0dc00c899ce7d1499b1.js",
         "https://nikannelson.github.io/goku/polyfills.7037a817a5bb670ed2ca.js",
         "https://nikannelson.github.io/goku/runtime.ec2944dd8b20ec099bf3.js",
         "https://nikannelson.github.io/goku/styles.6d8b68a60b97bdae14ce.css"
@@ -23,6 +23,7 @@
       "urls": [
         "https://nikannelson.github.io/goku/Saiyan-Sans.c1f81144897fc5acffc6.ttf",
         "https://nikannelson.github.io/goku/assets/Saiyan-Sans.ttf",
+        "https://nikannelson.github.io/goku/assets/gato.jpg",
         "https://nikannelson.github.io/goku/assets/gk.jpg",
         "https://nikannelson.github.io/goku/assets/icons/icon-128x128.png",
         "https://nikannelson.github.io/goku/assets/icons/icon-144x144.png",
@@ -38,6 +39,7 @@
         "https://nikannelson.github.io/goku/assets/ssj.jpg",
         "https://nikannelson.github.io/goku/assets/ssj4.jpg",
         "https://nikannelson.github.io/goku/assets/todos.jpg",
+        "https://nikannelson.github.io/goku/gato.b0193026c1d11ce55abb.jpg",
         "https://nikannelson.github.io/goku/kame.0bd6d3c179d22fefa259.jpg",
         "https://nikannelson.github.io/goku/migate.c21e8de1b39661051238.gif"
       ],
@@ -48,6 +50,7 @@
   "hashTable": {
     "https://nikannelson.github.io/goku/Saiyan-Sans.c1f81144897fc5acffc6.ttf": "78c884308db564720698927e9ab13ea4688facf5",
     "https://nikannelson.github.io/goku/assets/Saiyan-Sans.ttf": "78c884308db564720698927e9ab13ea4688facf5",
+    "https://nikannelson.github.io/goku/assets/gato.jpg": "d2235dd478024d379c7b388500a23125f4becd95",
     "https://nikannelson.github.io/goku/assets/gk.jpg": "88016a13fc6600f78c2ce55c8b1e040cdf4e07d5",
     "https://nikannelson.github.io/goku/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://nikannelson.github.io/goku/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -64,9 +67,10 @@
     "https://nikannelson.github.io/goku/assets/ssj4.jpg": "40cc835f7bcd301b5a9ae07f81590b22dd08358f",
     "https://nikannelson.github.io/goku/assets/todos.jpg": "a26fb269b5c3f611a9f0bfc7d3aaf25b6a02ae21",
     "https://nikannelson.github.io/goku/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://nikannelson.github.io/goku/index.html": "5a4e6af00ae34a828bf5e562420e24306d667a57",
+    "https://nikannelson.github.io/goku/gato.b0193026c1d11ce55abb.jpg": "d2235dd478024d379c7b388500a23125f4becd95",
+    "https://nikannelson.github.io/goku/index.html": "e059f9e5e24f0278e7b4bb1a2968be5ffd99bd5d",
     "https://nikannelson.github.io/goku/kame.0bd6d3c179d22fefa259.jpg": "79625f256db611a283906bc94823622ae05da827",
-    "https://nikannelson.github.io/goku/main.4c64f672f5f733a1eb4a.js": "f488c8caa63dec7e5f78aa00be452e0a68fa2b0b",
+    "https://nikannelson.github.io/goku/main.d0dc00c899ce7d1499b1.js": "99998c367d1055fecc13336fb3c46302b6595218",
     "https://nikannelson.github.io/goku/migate.c21e8de1b39661051238.gif": "56fbbe119246c5d1bcde8dbbf8e730f146fa6017",
     "https://nikannelson.github.io/goku/polyfills.7037a817a5bb670ed2ca.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "https://nikannelson.github.io/goku/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
